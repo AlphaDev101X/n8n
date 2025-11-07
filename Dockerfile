@@ -4,4 +4,4 @@ ENV N8N_ENFORCE_SETTINGS_FILE_PERMISSIONS=true
 
 EXPOSE 5678
 
-CMD ["n8n", "start"]
+CMD n8n start
